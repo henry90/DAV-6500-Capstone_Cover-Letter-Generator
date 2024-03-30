@@ -8,7 +8,6 @@ The Cover Letter Generator utilizes the Gradio library for creating a user-frien
 4. **Resume Revision for ATS:** Since this application is built using Prompt Engineering. simply by changing the prompt, this application can turn into a Resume Survivor to enhance their chances of successfully passing through Applicant Tracking Systems (ATS) and increasing their visibility to recruiters.
 
 ## Getting Started
-To get started with the Cover Letter Generator, follow these steps:
+To get started with the Cover Letter Generator:
 - Install the necessary dependencies (`gradio`, `openai`, `PyPDF2`, `docx2txt`, `nltk`) using `pip`.
 - Ensure you have an API key for OpenAI, and replace `YOUR_OPENAI_API_KEY` in the code with your actual API key.
-- Run the application on Gradio.
