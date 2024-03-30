@@ -1,5 +1,5 @@
-# DAV-6500-Capstone_Cover-Letter-Generator
-The Cover Letter Generator utilizes the Gradio library for creating a user-friendly interface and OpenAI's GPT-3.5 model for generating customized cover letters. The project allows users to upload their resumes and input job descriptions and then generate a tailored cover letter based on the provided information.
+# DAV 6500 Capstone: Cover Letter Generator
+The Cover Letter Generator utilizes the Gradio library for creating a user-friendly interface and OpenAI's GPT-3.5 model for generating customized cover letters. The project allows users just simply drop off their resume in the box, copy and paste only the job requirements in the text box. Hit the generate button, voilà cover letter will be generated! 🎉
 
 ## Key Features
 1. **User Interface:** The project provides an intuitive interface developed with Gradio, enabling users to interact with the application effortlessly.
@@ -11,5 +11,4 @@ The Cover Letter Generator utilizes the Gradio library for creating a user-frien
 To get started with the Cover Letter Generator, follow these steps:
 - Install the necessary dependencies (`gradio`, `openai`, `PyPDF2`, `docx2txt`, `nltk`) using `pip`.
 - Ensure you have an API key for OpenAI, and replace `YOUR_OPENAI_API_KEY` in the code with your actual API key.
-- Run the application: Just simply drop off your resume in the box, copy and paste only the job requirements in the text box.</br>
-Hit the generate button, voilà your cover letter will be generated! 🎉
+- Run the application on Gradio.
